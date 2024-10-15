@@ -1,0 +1,10 @@
+python-dotenv
+spotipy
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+sympy==1.13.3
+scipy
+texttable

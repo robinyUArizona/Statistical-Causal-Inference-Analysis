@@ -1,0 +1,24 @@
+track_id,track_name,album_name,artists,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+4wVOKKEHUJxHCFFNUWDn0B,Chicago Freestyle (feat. Giveon),Dark Lane Demo Tapes,"Drake, Giveon",77,220487,True,0.735,0.449,10,-7.507,1,0.347,0.629,0.0,0.113,0.0397,122.947,4,Unknown
+6Kj17Afjo1OKJYpf5VzCeo,Pain 1993 (with Playboi Carti),Dark Lane Demo Tapes,"Drake, Playboi Carti",74,149077,True,0.825,0.373,5,-5.532,0,0.108,0.163,0.0,0.368,0.12,77.271,4,Unknown
+4pvb0WLRcMtbPGmtejJJ6y,exile (feat. Bon Iver),folklore,"Taylor Swift, Bon Iver",77,285634,False,0.298,0.38,6,-8.426,1,0.0287,0.778,5.62e-05,0.11,0.152,75.602,4,Unknown
+1MgV7FIyNxIG7WzMRJV5HC,my tears ricochet,folklore,Taylor Swift,80,255893,False,0.469,0.263,0,-10.63,1,0.0329,0.806,0.0,0.0749,0.112,129.86,4,Unknown
+3hUxzQpSfdDqwM3ZTFQY0K,august,folklore,Taylor Swift,85,261922,False,0.532,0.623,5,-9.208,1,0.0331,0.538,7.28e-05,0.0925,0.403,89.937,4,Unknown
+4R2kfaDFhslZEMJqAFNpdd,cardigan,folklore,Taylor Swift,84,239560,False,0.613,0.581,0,-8.588,0,0.0424,0.537,0.000345,0.25,0.551,130.033,4,Unknown
+0sY6ZUTh4yoctD8VIXz339,champagne problems,evermore,Taylor Swift,76,244000,True,0.462,0.24,0,-12.077,1,0.0377,0.92,0.0,0.113,0.32,171.319,4,Unknown
+41wtwzCZkXwpnakmwJ239F,Si Veo a Tu Mamá,YHLQMDLG,Bad Bunny,74,170971,False,0.9,0.603,2,-5.313,1,0.0646,0.402,4.81e-06,0.134,0.824,129.928,4,Unknown
+47EiUVwUp4C9fGccaPuUCS,DÁKITI,DÁKITI,"Bad Bunny, JHAYCO",75,205090,True,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,4,Unknown
+2DEZmgHKAvm41k4J3R2E9Y,Safaera,YHLQMDLG,"Bad Bunny, Jowell & Randy, Ñengo Flow",72,295176,True,0.607,0.829,2,-4.074,1,0.379,0.0103,0.0,0.107,0.685,96.172,4,Unknown
+2XIc1pqjXV3Cr2BQUGNBck,LA NOCHE DE ANOCHE,EL ÚLTIMO TOUR DEL MUNDO,"Bad Bunny, ROSALÍA",75,203200,False,0.856,0.618,7,-4.892,1,0.286,0.0303,0.0,0.0866,0.391,81.993,4,Unknown
+69vlMrzHwATKzupwNcUPyK,La Santa,YHLQMDLG,"Bad Bunny, Daddy Yankee",78,206420,True,0.744,0.868,1,-4.524,1,0.047,0.0326,0.0,0.0822,0.586,93.037,4,Unknown
+5J7teKIJGtqVypgYI6sqXj,Una Vez,YHLQMDLG,"Bad Bunny, Mora",75,232496,True,0.55,0.598,11,-5.402,0,0.0831,0.132,2.58e-06,0.0955,0.543,83.836,4,Unknown
+4MzXwWMhyBbmu6hOcLVD49,DÁKITI,EL ÚLTIMO TOUR DEL MUNDO,"Bad Bunny, JHAYCO",76,205090,True,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,4,Unknown
+2tFwfmceQa1Y6nRPhYbEtC,CÓMO SE SIENTE - Remix,CÓMO SE SIENTE (Remix),"JHAYCO, Bad Bunny",75,227520,True,0.807,0.606,3,-8.871,0,0.088,0.0946,0.0,0.119,0.304,92.988,4,Unknown
+0E4Y1XIbs8GrAT1YqVy6dq,Afterglow,Afterglow,Ed Sheeran,66,185486,False,0.641,0.324,11,-5.851,1,0.0299,0.698,0.0,0.328,0.273,110.184,4,Unknown
+0VSzREd1OjEWJ9tXoFHRQH,Those Kinda Nights (feat. Ed Sheeran),Music To Be Murdered By,"Eminem, Ed Sheeran",59,177693,True,0.794,0.637,4,-6.29,0,0.339,0.028,0.0,0.0919,0.393,103.868,4,Unknown
+0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,After Hours,The Weeknd,88,200040,False,0.513,0.73,1,-5.94,1,0.0598,0.00143,9.54e-05,0.0897,0.334,171.001,4,Unknown
+5QO79kh1waicV47BqGRL3g,Save Your Tears,After Hours,The Weeknd,84,215626,True,0.679,0.825,0,-5.487,1,0.0309,0.0212,1.21e-05,0.543,0.644,118.049,4,Unknown
+2p8IUWQDrpjuFltbdgLOag,After Hours,After Hours,The Weeknd,80,361026,False,0.658,0.572,5,-6.099,0,0.0308,0.0811,0.0061,0.121,0.144,108.968,4,Unknown
+6bnF93Rx87YqUBLSgjiMU8,Heartless,After Hours,The Weeknd,77,198266,True,0.537,0.746,10,-5.507,0,0.15,0.0236,1e-06,0.156,0.252,170.083,4,Unknown
+1oFAF1hdPOickyHgbuRjyX,Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,After Hours (Deluxe),"The Weeknd, Ariana Grande",79,191013,False,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,4,Unknown
+6wQlQrTY5mVS8EGaFZVwVF,Smile (with The Weeknd),Legends Never Die,"Juice WRLD, The Weeknd",67,196180,True,0.694,0.685,6,-6.535,0,0.133,0.224,0.0,0.124,0.306,158.831,4,Unknown
