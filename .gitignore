@@ -132,7 +132,7 @@ env.bak/
 venv.bak/
 
 # Files and folders
-
+data/
 
 # Spyder project settings
 .spyderproject
